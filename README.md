@@ -1,4 +1,5 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/jkperin/)
+<div style="text-align: right;">
+<a href="https://www.paypal.me/jkperin/"><img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-green.svg" /></a></div>
 
 # Lecture notes
 
