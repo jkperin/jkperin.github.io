@@ -4,7 +4,7 @@ Before joining Aeva, I completed my PhD in Electrical Engineering at [Stanford U
 
 I have a variety of research interests including signal processing, optimization, machine learning, optics, and photonics.
 
-[Linkedin](https://www.linkedin.com/in/jose-krause-perin/) [Google Scholar](https://scholar.google.com/citations?user=JeihKR8AAAAJ&hl=en)
+[Linkedin](https://www.linkedin.com/in/jose-krause-perin/) \| [Google Scholar](https://scholar.google.com/citations?user=JeihKR8AAAAJ&hl=en)
 
 ## Professional experience
 
@@ -18,10 +18,10 @@ I have a variety of research interests including signal processing, optimization
 
 ## Teaching Experience
 
-* __Stanford University__ \| Instructor, Summer 2017 and 2018. 
+* __Stanford University__ \| Instructor of EE 264: Digital Signal Processing, Summer 2017 and 2018.
     > [Lecture notes on Digital Signal Processing](https://jkperin.github.io/DSP/)
 
-* __Stanford University__ \| Instructor and teaching assistant, Summer 2017 and 2018.
+* __Stanford University__ \| Instructor and teaching assistant of EE 373A: Adaptive Signal Processing, Summer 2017 and 2018.
 
 ## Selected publications
 
@@ -35,7 +35,7 @@ I have a variety of research interests including signal processing, optimization
 
 * __J. K. Perin__, A. Shastri, J. Kahn, "Data Center Links Beyond 100 Git/s per Wavelength," _Optical Fiber Technology_, Dec., 2017 __(invited)__. [PDF](https://github.com/jkperin/jkperin.github.io/raw/master/publications/data_center_review.pdf)
 
-* __J. K. Perin__, A. Shastri, J. Kahn, "Design of Low-Power DSP-Free Coherent Receivers for Data Center Links," _J. of Lightwave Technol._ Nov., 2017. [PDF](https://github.com/jkperin/jkperin.github.io/raw/master/publications/DSP-free_coherent.pdf).
+* __J. K. Perin__, A. Shastri, J. Kahn, "Design of Low-Power DSP-Free Coherent Receivers for Data Center Links," _J. of Lightwave Technol._ Nov., 2017. [PDF](https://github.com/jkperin/jkperin.github.io/raw/master/publications/DSP-free_coherent.pdf)
 
 * __J. K. Perin__, M. Sharif, J. Kahn, "Sensitivity Improvement in 100 Gbit/s-per-Wavelength Links using Semiconductor Optical Amplifiers or Avalanche Photodiodes," _J. of Lightw. Technol._,  Dec., 2016. [PDF](https://github.com/jkperin/jkperin.github.io/raw/master/publications/SOA_vs_APD_100G.pdf)
 
@@ -43,7 +43,7 @@ I have a variety of research interests including signal processing, optimization
 
 * M. Sharif, __J. K. Perin__, J. Kahn, "Modulation Schemes for Single-Wavelength 100 Gbits/s Links: Single-Carrier," _J. of Lightwave Technol._, Oct., 2015. [PDF](https://github.com/jkperin/jkperin.github.io/raw/master/publications/100G-singlecarrier.pdf)
 
-* __J. K. Perin__, M. Ribeiro, A. Cartaxo, "Polynomial-Time Complexity Large-Signal Model for DML-based OFDM Transmission Systems,"  {\sl Photon. Technol. Lett.}, Dec. 2013. [PDF](https://github.com/jkperin/jkperin.github.io/raw/master/publications/pol-time-large-signal-model.pdf)
+* __J. K. Perin__, M. Ribeiro, A. Cartaxo, "Polynomial-Time Complexity Large-Signal Model for DML-based OFDM Transmission Systems,"  _Photon. Technol. Lett._, Dec. 2013. [PDF](https://github.com/jkperin/jkperin.github.io/raw/master/publications/pol-time-large-signal-model.pdf)
 
 ### Conference proceedings
 
