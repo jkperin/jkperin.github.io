@@ -1,6 +1,6 @@
 I'm currently a hardware engineer at [Aeva Inc](http://www.aeva.ai/) developing algorithms for next-generation LIDAR sensors for autonomous vehicles.
 
-Before joining Aeva, I completed my PhD in Electrical Engineering at [Stanford University](https://ee.stanford.edu/) in 2018. My research focused on optimizing optical communication systems at the shortest distances in data centers and at the longest distances in subminare systems interconnecting continents.
+Before joining Aeva, I completed my PhD in Electrical Engineering at [Stanford University](https://ee.stanford.edu/) in 2018, where I was advised by [Prof. Joseph Kahn](https://ee.stanford.edu/~jmk/). My research focused on optimizing optical communication systems at the shortest distances in data centers and at the longest distances in subminare systems interconnecting continents. 
 
 I have a variety of research interests including signal processing, optimization, machine learning, optics, and photonics.
 
