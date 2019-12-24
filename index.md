@@ -1,8 +1,10 @@
-I'm currently a hardware engineer at [Aeva Inc](http://www.aeva.ai/) developing algorithms for next-generation LIDAR sensors used in autonomous vehicles.
+I currently work at [Aeva Inc](http://www.aeva.ai/) developing signal processing algorithms for next-generation LIDAR sensors that will enable autonomous vehicles to navigate their worlds safely.
 
-Before joining Aeva, I completed my PhD in Electrical Engineering at [Stanford University](https://ee.stanford.edu/) in 2018, where I was advised by [Prof. Joseph Kahn](https://ee.stanford.edu/~jmk/). My research focused on optimizing optical communication systems at the shortest distances in data centers and at the longest distances in subminare systems interconnecting continents. 
+Before joining Aeva, I completed my PhD in Electrical Engineering at [Stanford University](https://ee.stanford.edu/), where I was advised by [Prof. Joseph Kahn](https://ee.stanford.edu/~jmk/). My research focused on the design and optimization of power-constrained optical communication systems. My publications have received over 100 citations over the last few years.
 
-I have a variety of research interests including signal processing, optimization, machine learning, optics, and photonics.
+During my time at Stanford, I also had the opportunity to teach two graduate-level courses: Digital Signal Processing and Adaptive Signal Processing. I experienced firsthand that teaching is the best way to learn something.
+
+I’m driven by challenging problems and like to work in collaborative environments. My professional interests lie at the intersection of signal processing, optimization, and machine learning.
 
 [Linkedin](https://www.linkedin.com/in/jose-krause-perin/) \| [Google Scholar](https://scholar.google.com/citations?user=JeihKR8AAAAJ&hl=en)
 
