@@ -1,8 +1,6 @@
-I currently work at [Aeva Inc](http://www.aeva.ai/) developing signal processing algorithms for next-generation LIDAR sensors that will enable autonomous vehicles to navigate their worlds safely.
+I currently work at [Aeva Inc](http://www.aeva.ai/) developing signal processing algorithms for next-generation LIDAR sensors that will enable autonomous vehicles to navigate safely.
 
-Before joining Aeva, I completed my PhD in Electrical Engineering at [Stanford University](https://ee.stanford.edu/), where I was advised by [Prof. Joseph Kahn](https://ee.stanford.edu/~jmk/). My research focused on the design and optimization of power-constrained optical communication systems. My publications have received over 100 citations over the last few years.
-
-During my time at Stanford, I also had the opportunity to teach two graduate-level courses: Digital Signal Processing and Adaptive Signal Processing. I experienced firsthand that teaching is the best way to learn something.
+Before joining Aeva, I completed my PhD in Electrical Engineering at [Stanford University](https://ee.stanford.edu/), where I was advised by [Prof. Joseph Kahn](https://ee.stanford.edu/~jmk/). My research focused on the design and optimization of power-constrained optical communication systems. My publications have received over 300 citations. During my time at Stanford, I also had the opportunity to teach two graduate-level courses: Digital Signal Processing and Adaptive Signal Processing.
 
 I’m driven by challenging problems and like to work in collaborative environments. My professional interests lie at the intersection of signal processing, optimization, and machine learning.
 
@@ -10,7 +8,9 @@ I’m driven by challenging problems and like to work in collaborative environme
 
 ## Professional experience
 
-* __Aeva, Inc__ \| Hardware Development Engineer, Jun 2018 -- Present.
+* __Aeva, Inc__ \| System Algorithms Manager, Sept 2021 -- Present.
+
+* __Aeva, Inc__ \| Algorithm Engineer, Jun 2018 -- Sept 2021.
 
 * __Juniper Networks__ \| Optical Engineer Intern, Jul 2016 -- Sep 2016.
 
@@ -52,7 +52,6 @@ I’m driven by challenging problems and like to work in collaborative environme
 * __J. K. Perin__, A. Shastri, J. Kahn, "DSP-Free Coherent Receivers for Data Center Links," _OFC 2018_, San Diego, Mar., 2018. __(invited talk)__ [PDF](https://github.com/jkperin/jkperin.github.io/raw/master/publications/OFC_DSP_free_coherent.pdf)
 
 * __J. K. Perin__, A. Shastri, J. Kahn, "Data Center Links Beyond 100 Gbit/s Per Wavelength," _Photonics West 2018_, San Francisco, Feb., 2018. __(invited talk)__ [PDF](https://github.com/jkperin/jkperin.github.io/raw/master/publications/PW_DC_review.pdf)
-
 
 ### Patent
 * __J. K. Perin__, A. Shastri, J. Kahn, "DSP-Free Coherent Receiver," _US Provisional Patent 62/506213_, May, 2017.
