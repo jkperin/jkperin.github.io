@@ -21,7 +21,7 @@ I’m driven by challenging problems and like to work in collaborative environme
 
 ## Selected publications
 
-Complete and updated list including patents is available on [Google Scholar](https://scholar.google.com/citations?user=JeihKR8AAAAJ&hl=en)
+Complete and updated list including all patents is available on [Google Scholar](https://scholar.google.com/citations?user=JeihKR8AAAAJ&hl=en).
 
 ### Thesis
 
