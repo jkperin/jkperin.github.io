@@ -21,7 +21,7 @@ I’m driven by challenging problems and like to work in collaborative environme
 
 ## Selected publications
 
-Complete and updated list including all patents is available on [Google Scholar](https://scholar.google.com/citations?user=JeihKR8AAAAJ&hl=en).
+Complete and updated list including patents is available on [Google Scholar](https://scholar.google.com/citations?user=JeihKR8AAAAJ&hl=en).
 
 ### Thesis
 
@@ -48,6 +48,3 @@ Complete and updated list including all patents is available on [Google Scholar]
 * __J. K. Perin__, A. Shastri, J. Kahn, "DSP-Free Coherent Receivers for Data Center Links," _OFC 2018_, San Diego, Mar., 2018. __(invited talk)__ [PDF](https://github.com/jkperin/jkperin.github.io/raw/master/publications/OFC_DSP_free_coherent.pdf)
 
 * __J. K. Perin__, A. Shastri, J. Kahn, "Data Center Links Beyond 100 Gbit/s Per Wavelength," _Photonics West 2018_, San Francisco, Feb., 2018. __(invited talk)__ [PDF](https://github.com/jkperin/jkperin.github.io/raw/master/publications/PW_DC_review.pdf)
-
-### Patent
-* __J. K. Perin__, A. Shastri, J. Kahn, "DSP-Free Coherent Receiver," _US Provisional Patent 62/506213_, May, 2017.
