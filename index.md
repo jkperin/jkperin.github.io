@@ -1,8 +1,8 @@
-I currently work at [Aeva Inc](http://www.aeva.ai/) developing signal processing algorithms for next-generation LIDAR sensors that will enable autonomous vehicles to navigate safely.
+I currently work at [Aeva Inc](http://www.aeva.ai/) developing algorithms for next-generation LIDAR sensors.
 
-Before joining Aeva, I completed my PhD in Electrical Engineering at [Stanford University](https://ee.stanford.edu/), where I was advised by [Prof. Joseph Kahn](https://ee.stanford.edu/~jmk/). My research focused on the design and optimization of power-constrained optical communication systems. My publications have received over 300 citations. During my time at Stanford, I also had the opportunity to teach two graduate-level courses: Digital Signal Processing and Adaptive Signal Processing.
+Before joining Aeva, I completed my PhD in Electrical Engineering at [Stanford University](https://ee.stanford.edu/), where I was advised by [Prof. Joseph Kahn](https://ee.stanford.edu/~jmk/). My research focused on the design and optimization of power-constrained optical communication systems. My publications have received over 400 citations. During my time at Stanford, I also had the opportunity to teach two graduate-level courses: Digital Signal Processing and Adaptive Signal Processing.
 
-I’m driven by challenging problems and like to work in collaborative environments. My professional interests lie at the intersection of signal processing, optimization, and machine learning.
+I’m driven by challenging problems and like to work in collaborative environments. My professional interests lie at the intersection of sensing, communications, and perception.
 
 [Linkedin](https://www.linkedin.com/in/jose-krause-perin/) \| [Google Scholar](https://scholar.google.com/citations?user=JeihKR8AAAAJ&hl=en)
 
@@ -12,12 +12,6 @@ I’m driven by challenging problems and like to work in collaborative environme
 
 * __Aeva, Inc__ \| Algorithm Engineer, Jun 2018 -- Sept 2021.
 
-* __Juniper Networks__ \| Optical Engineer Intern, Jul 2016 -- Sep 2016.
-
-* __Maxim Integrated__ \| Hardware Engineer Intern, Jul 2015 -- Sep 2015.
-
-* __Mitsubishi Electric Research Labs__ \| Research Intern, Jul 2014 -- Sep 2014.
-
 ## Teaching Experience
 
 * __Stanford University__ \| Instructor of EE 264: Digital Signal Processing, Summer 2017 and 2018.
@@ -26,6 +20,8 @@ I’m driven by challenging problems and like to work in collaborative environme
 * __Stanford University__ \| Instructor and teaching assistant of EE 373A: Adaptive Signal Processing, Summer 2017 and 2018.
 
 ## Selected publications
+
+Complete and updated list including patents is available on [Google Scholar](https://scholar.google.com/citations?user=JeihKR8AAAAJ&hl=en)
 
 ### Thesis
 
